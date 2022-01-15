@@ -93,7 +93,7 @@ function Salesform() {
                       <label>Metal</label>
                       <Input type="select" name="metal" onChange={handelChange}>
                         <option selected>Select Metal</option>
-                        {/* <option>Gold</option> */}
+                        <option>Gold</option>
                         <option>Gold75HM</option>
                         <option>Gold916HM</option>
                         <option>Silver</option>
